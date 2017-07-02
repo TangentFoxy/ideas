@@ -1,0 +1,5 @@
+bookshelf height will be 1.8 meters
+player height will be 1.6 meters
+room height will be 2 meters
+book height will be approximately 1.8m/5 -x (some empty space above the books on the shelves)
+book depth will be based on whatever the width of the shelves is divided by 32 -x
