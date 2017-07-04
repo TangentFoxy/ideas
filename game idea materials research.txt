@@ -1,0 +1,10 @@
+Materials have a cost and optional properties, as well as weights for those properties.
+And stability, which affects the size of the white bar representing the properties.
+
+Properties are variable between 0 and 1 as a bar graph. Weights are between the same values
+and is how much the property resists being changed when the material is combined.
+
+A goal material is listed as a bar graph of properties. Grey doesn't matter, red is an area
+that must be avoided, and green is an area that must be reached. If the white bar of a
+property is partially in red, or partially out of green, it is unacceptable. Either use
+more materials or more stabiliser.
