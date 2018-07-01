@@ -10,6 +10,7 @@ turns, points, rules, events..
 ---
 
 names are alphanumeric with periods allowed
+(based on https://esolangs.org/wiki/ZeptoBasic)
 
 label name
 goto name
