@@ -1,0 +1,39 @@
+core functionality of 'nomic' as code:
+- accept input from players
+- output to players
+- determine a winner
+
+turns, points, rules, events..
+
+
+
+---
+
+names are alphanumeric with periods allowed
+
+label name
+goto name
+set var value
+print var
+input var prompt
+if x cmp y name (cmp: lt le eq ne gt ge)
+get var array index
+put var array index
+op var value (op: add sub mul div mod pow)
+
+--- --- ---
+
+(names: alphanumeric strings, periods allowed)
+(args: optional, valid names separated by whitespace)
+function name args
+return args
+call name args
+
+set name value
+print name
+input name prompt
+if x cmp y (cmp: lt le eq ne gt ge)
+end
+get name array index (name = array.index)
+put name array index (array.index = name)
+op name value (op: add sub mul div mod pow)
