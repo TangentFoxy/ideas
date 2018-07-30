@@ -1,0 +1,40 @@
+- pregnancy
+- alien abduction
+- skills
+  - cooking
+  - cleaning
+  - mechanical
+  - logic
+  - creativity
+    - painting
+    - guitar
+    - writing
+  - body (health)
+  - charisma
+  - fishing
+  - gardening
+  - photography
+- adoption
+  - random phone calls
+  - can also call from service menu ($3k required, fee of $1k)
+  - rejected if child has been lost before
+  - can also do on computer
+- hybrid ?
+- chance card ?
+- fire
+- needs
+  - food
+  - waste
+  - cleanliness
+  - fun
+  - rest
+- cooking
+- microwave
+- fridge
+- chairs
+- lights
+- tv
+- computer
+- bed
+
+> drinking a veggie cocktail will aid in skill building, and drinking eggplant juice will give a random skill point

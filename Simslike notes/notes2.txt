@@ -1,0 +1,21 @@
+- basic interior building
+  - tiles, marked interior or exterior
+  - cost to place or remove
+  - objects can be placed in tiles, facing multiple directions
+- basic pathing
+  - a tile is traversable or not, desired path is quickest/shortest
+- basic needs
+  - food, waste, cleanliness, sleep, fun, social
+- work
+  - x income from 'magic jump point'
+  - x bills based on size of land owned
+
+-------------------------------------
+
+why?
+- want to watch sims doing silly things
+- want sandbox to do silly things in
+- want sim of small town
+  - relationships, building development, growth
+
+how do I simplify this to its core?
