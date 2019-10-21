@@ -1,0 +1,28 @@
+solar system generator
+- stars, planets, moons, comets
+- atmospheres, minerals, organics
+
+build, research, command, etc
+
+give ships instructions, players can challenge them?
+build scenarios, players can play them?
+multiplayer but allow protected sectors and unprotected sectors?
+
+aliens
+ai
+generative world
+
+directed graph of sectors
+probes, scouting
+trans-newtonian ?
+
+--- --- --- ---
+
+colonies: size, work (size * conditions), orders
+  orders:
+    table of orders with percentage of work to use
+    (logic: do as many items at full percentage as possible, if there is
+     remaining percentage, devote it to the next item, if there are no more
+     items, devote evenly among in-progress items, if there are none, devote to
+     default order)
+    grow (size increases), mine, build (specific designs)
