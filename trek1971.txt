@@ -1,0 +1,26 @@
+phasers - power law drop-off, instant weapon
+photon torpedoes - dump fire or smart fire, fast missile
+helm - movement control at warp or impulse speeds
+dilithium - important part of controlling warp core
+warp engine
+warp core
+warp field coils
+impulse engines
+shields - absorb a fraction of impact damage to regenerating field
+energy banks - batteries / capacitors
+starbase
+trade
+life support
+reactor - fusion
+battery
+fire control - required for targeting
+sensors - see what's going on, required for targeting, scanning
+damage control
+tractor
+transporters
+ecm
+eccm
+labs
+cloaking device
+disrupter - alternate version of phasers, mechanically very similar
+tracking - feature of sensors
