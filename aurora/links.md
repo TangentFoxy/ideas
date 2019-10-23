@@ -10,3 +10,8 @@
 * https://www.universetoday.com/37425/what-are-asteroids-made-of/
 * https://www.nationalgeographic.org/encyclopedia/ore/
 * https://www.seeker.com/mining-mars-wheres-the-ore-1765028965.html
+
+# Misc
+
+* https://en.wikipedia.org/wiki/Disrupted_planet
+* https://en.wikipedia.org/wiki/Mesoplanet
