@@ -1,0 +1,6 @@
+- stars
+- terrestrial planets (some moons are here - gas giant moons tend to be anything from asteroid to terrestrial planet)
+- planetesimals (some moons are here)
+- asteroids (some moons are here)
+- gas giants
+- comets (probably will not be included)
