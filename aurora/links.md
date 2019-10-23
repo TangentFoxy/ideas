@@ -15,3 +15,4 @@
 
 * https://en.wikipedia.org/wiki/Disrupted_planet
 * https://en.wikipedia.org/wiki/Mesoplanet
+* http://hyperphysics.phy-astr.gsu.edu/hbase/Solar/venusenv.html
