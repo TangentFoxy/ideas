@@ -1,0 +1,25 @@
+- large grid for placing houses / facilities
+
+- small grid for where you can find / plant things and dig holes
+
+- museum wants: fossils, bugs, paintings, shells (go w fish), fish, flowers (go w bugs)
+
+- store, library, town hall, houses, post office, eastery (pub?)
+
+- certain characters same in all towns, others randomly assigned
+
+- randomly generated fossil locations
+
+- randomly generated tree locations
+
+- insect appearance based on season/time
+
+- patterns: doors, clothes, flags, balls, ?
+
+- furniture, house designs / customized building
+
+- stalk market (different stalks -> different veggies that are stalked)
+
+  - shop will buy these, but also online component
+
+- ?

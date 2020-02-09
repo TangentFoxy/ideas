@@ -1,0 +1,26 @@
+cost - increases based on part's costs
+mass - increases based on part's masses
+speed - based on mass and engine parts
+range - based on engines and fuel tanks
+power - based on reactors
+
+other categories/features are added if appropriate parts are added
+
+weapons:
+- lasers are instant lines, but damage degrades with distance squared
+- projectiles have a speed and must actually impact, and can impact allies
+
+cockpit / bridge starts every ship
+crew modules ? hibernation modules? colonization modules?
+fuel tanks, reactors, warp drives, teleport systems, armor, shielding...
+
+I want to focus on larger ships and not too much detail.
+
+Icons are based on mass of ships.
+
+Also, each type of module has a probability modifier to say how likely it is
+to be hit by enemy fire (essentially, is it an internal component or not).
+
+Parts can be damaged or destroyed. Damaged parts can be partially functional,
+and can be repaired when out of combat. Destroyed parts can only be repaired
+at dry dock.

@@ -1,0 +1,10 @@
+- bad decisions live feed
+  - venmo's public api bared
+
+- yell at someone
+  - kinda like message in a bottle, you can send messages but they go to random users
+
+Terminals
+- guake
+- Terminator
+- yakuake

@@ -1,0 +1,81 @@
+169: 1 button
+- every few seconds the action of the button changes
+168: Rain
+- global weather control
+167: That's not supposed to be a weapon
+166: 2 Colors
+165: 1 object
+164: your favorite game but the most simplest possible
+163: Unexpected
+162: Darkness
+161: 2-player
+- something w multiple stages or levels, impossible to beat in one play
+160: Magic
+- alchemical mixing shop (WORKING ON NOW)
+159: Second Chance
+158: Danger Zone
+157: One Control
+156: Combine two incompatible genres
+151: Theft
+150: Brutal Roguelike Adventure
+149: Failure
+148: Dreams
+147: Return
+146: 10 seconds
+145: Frogs
+144: Time Travel
+143: Moon
+142: Submerged
+141: From point A to point B
+140: Up
+139: Game inside a menu
+138: Snow
+137: Fire
+136: The more you have, the worse it is
+135: Space
+134: Forest
+133: Defense!
+132: Rhythm game
+131: Halloween
+130: Drops
+129: More limbs than neccessary
+128: Chaos
+127: Never test your game
+126: Run
+125: Wizardry
+124: Arcade
+123: Space
+122: fast!
+121: Slow
+120: 1 room
+119: Where no man has gone before
+118: Quantum Mechanic
+117: The World Below
+116: Cheating
+115: one button controller
+114: The Midas Touch
+113: Purposely Bad
+112: The Floor Is Lava
+111: Lost
+110: Switch
+109: Square
+108: Bees
+107: rockets
+106: Shop
+105: Gold
+104: One Dimension
+103: 10 seconds
+102: A game base off the object to your left
+101: One Button
+100: I made this
+
+---
+
+Z-machine like game runner thing
+- rooms, objects, exits, descriptions, basic interactions
+city builder small and simple
+- tile-based obviously
+train management game
+- based entirely in menus, selecting cities to send trains between
+simple as fuck mining game
+- like a remake of one of my first games ever
