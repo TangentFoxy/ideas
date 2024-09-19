@@ -18,7 +18,7 @@ Building vessels cost Supplies and time depending on Workforce and Peace.
 - There is a time until the next Planet discovery is made which goes up exponentially.
   - Scout ships reduce this time exponentially(?).
   - Scouts can also be stationed at a Planet to give real-time data on it. They may be attacked when stationed (and will be destroyed).
-  - # of Scouts also improves detection of enemy movements (basically, movements are how many ships there are, since there is no "space", no map).
+  - \# of Scouts also improves detection of enemy movements (basically, movements are how many ships there are, since there is no "space", no map).
 
 # Expand
 
